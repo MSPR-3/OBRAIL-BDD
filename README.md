@@ -7,7 +7,7 @@
 
 ## Contexte
 
-Ce projet s'inscrit dans le cadre du **MSPR (Mission de Préparation à la Rentrée)**, formation DIADS/DIA.
+Ce projet s'inscrit dans le cadre du **MSPR**, formation DIADS/DIA.
 Il constitue le socle de données de la plateforme **OBRAIL Europe** — un observatoire des données ferroviaires à l'échelle européenne.
 
 ---
